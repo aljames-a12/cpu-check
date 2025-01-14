@@ -16,6 +16,7 @@
 #define UTILS_H_
 
 #include <string>
+#include <cstdint>
 
 #include "absl/strings/string_view.h"
 
